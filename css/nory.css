@@ -117,13 +117,13 @@ header .container nav ul{
     justify-content: center;
 }
 header .container nav i{
-    font-size: 22px;
+    font-size: 14px;
 }
 header .container nav ul li{
     padding: 0px 10px;
 }
 header .container nav ul li a{
-    font-size: 18px;
+    font-size: 14px;
     color: black;
     height: 100%;
     position: relative;
@@ -387,7 +387,7 @@ header .container nav ul li:first-of-type a::after{
 }
 .footer p{
     font-size: 18px;
-    padding: 20px;
+    padding: 20px 0px ;
 }
 .footer .container{
     display: flex;
